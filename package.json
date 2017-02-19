@@ -24,10 +24,6 @@
   },
   "homepage": "https://github.com/unscript/express-test#readme",
   "dependencies": {
-<<<<<<< HEAD
     "express": "^4.14.1"
-=======
-    "express": "^4.14.0"
->>>>>>> 7468d8c1057789ec43972d505aaf572e40735cab
   }
 }
