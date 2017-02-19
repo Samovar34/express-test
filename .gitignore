@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 #vscode
 .vscode/
 
 #node_modules logs
 node_modules/
 *.log
+=======
+#node modules
+node_modules
+>>>>>>> 7468d8c1057789ec43972d505aaf572e40735cab
